@@ -1,4 +1,3 @@
-# video timestamp
 from settings import *
 from level import Level
 from pytmx.util_pygame import load_pygame
@@ -28,10 +27,6 @@ class Game:
 if __name__ == '__main__':
     game = Game()
     game.run()
-
-
-
-
 
 
 
